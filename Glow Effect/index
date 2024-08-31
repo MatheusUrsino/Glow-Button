@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://kit.fontawesome.com/82e317bcf7.js" crossorigin="anonymous"></script>
+
+    <link rel="shortcut icon" href="img/icons8-interruptor-de-luz-1-16.png">
+
+
+    <link rel="stylesheet" href="css/style.css">
+    <title>Glow Efect</title>
+</head>
+
+<body>
+    
+    <button class="btn">Clique em mim!</button>
+
+</body>
+
+</html>
